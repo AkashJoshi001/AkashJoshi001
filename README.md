@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkashJoshi001
 - 👀 I’m interested in ...learning programing
-- 🌱 I’m currently learning ...HTML,CSS JAVA SCRIPT
+- 🌱 I’m currently learning ...HTML,CSS And JAVA SCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... aj7008009@gmail.com
 
